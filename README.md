@@ -8,7 +8,7 @@ It is assumed that before running the scripts Plot1.R, Plot2.R, Plot3.R and Plot
 
 Running the scripts Plot1.R, Plot2.R, Plot3.R and Plot4.R creates the figures 
 Plot1.png, Plot2.png, Plot3.png and Plot4.png respectively.  The figures are 
-found in the directory named "figure
+found in the directory named "figure"
 
 The original assignment instructions are found below.  
 
