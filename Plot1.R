@@ -27,6 +27,5 @@ with(subset(data, (data$Date=="2007-02-01" | data$Date=="2007-02-02") ), {
           col="red", main="Global Active Power", axes=FALSE)
         axis(side = 1, at = c(0,2,4,6))
         axis(side = 2, at = c(0,200,400,600,800,1000,1200))
-        box()
      })
 dev.off()
