@@ -3,9 +3,6 @@
 This repo contains my solution to course project 1 for the Exploratory Data 
 Analysis course.
 
-It is assumed that before running the scripts Plot1.R, Plot2.R, Plot3.R and Plot4.R, the data will be downloaded from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip and the unzipped file "household_power_consumption" will be placed in the same directory as the scripts
- (I tried to include the unzipped file in the repo for completeness, but it was too large.)
-
 Running the scripts Plot1.R, Plot2.R, Plot3.R and Plot4.R creates the figures 
 Plot1.png, Plot2.png, Plot3.png and Plot4.png respectively.  The figures are 
 found in the directory named "figure"
