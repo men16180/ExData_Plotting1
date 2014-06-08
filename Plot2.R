@@ -22,6 +22,6 @@ data$Date <- as.Date(data$Date, "%d/%m/%Y")
 png(file = "./figure/Plot2.png", width = 480, height = 480, units = "px",bg = "transparent") 
 with(subset(data, (data$Date=="2007-02-01" | data$Date=="2007-02-02") ), {
         plot(Time, Global_active_power, type="l", 
-             ylab="Global active power (kilowatts)",xlab="\n")          
+             ylab="Global Active Power (kilowatts)",xlab="\n")          
       })
 dev.off()
